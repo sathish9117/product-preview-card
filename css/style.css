@@ -120,8 +120,8 @@
     margin-top: 5%;
   }
   .r-c p {
-    font-size: 19px;
-    color: var(--Dark-grayish-blue);
+    font-size: 20px;
+    font-family: sans-serif;
   }
   .attribution {
     font-size: 13px;
